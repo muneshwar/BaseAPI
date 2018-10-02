@@ -1,0 +1,11 @@
+com\techdata\cpq\api\pricing\configuration\ApplicationInitializer.class
+com\techdata\cpq\api\pricing\controller\PricingInfoController.class
+com\techdata\cpq\api\pricing\service\IDocumentInfoService.class
+com\techdata\cpq\api\pricing\service\impl\DocumentInfoServiceImpl.class
+com\techdata\cpq\api\pricing\service\impl\ItemaInfoServiceImpl.class
+com\techdata\cpq\api\pricing\service\IItemsInfoService.class
+com\techdata\cpq\api\pricing\model\request\PricingInfoRequest.class
+com\techdata\cpq\api\pricing\model\response\PricingInfoResponse.class
+com\techdata\cpq\api\pricing\service\impl\PricingInfoServiceImpl.class
+com\techdata\cpq\api\pricing\service\IPricingInfoService.class
+com\techdata\cpq\api\pricing\configuration\ApplicationConfiguration.class
